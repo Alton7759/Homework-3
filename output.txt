@@ -1,0 +1,808 @@
+After   0 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     bread                                                                      
+                     apple pie                                                                  
+                     hotdogs                                                                    
+                     rice krispies                                                              
+                     milk                                                                       
+                     ===========================================================================
+
+
+
+
+
+
+After   1 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     bread                                                                      
+                     apple pie                                                                  
+                     hotdogs                                                                    
+                     rice krispies                                                              
+                     milk                                              eggs                     
+                     ===========================================================================
+
+
+
+
+
+
+After   2 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     apple pie                                                                  
+                     hotdogs                                                                    
+                     rice krispies                                                              
+                     milk                     bread                    eggs                     
+                     ===========================================================================
+
+
+
+
+
+
+After   3 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     apple pie                                                                  
+                     hotdogs                                                                    
+                     rice krispies            eggs                                              
+                     milk                     bread                                             
+                     ===========================================================================
+
+
+
+
+
+
+After   4 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     hotdogs                                                                    
+                     rice krispies            eggs                                              
+                     milk                     bread                    apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After   5 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     hotdogs                                                                    
+                     rice krispies                                                              
+                     milk                     bread                    apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After   6 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     hotdogs                                                                    
+                     rice krispies                                     bread                    
+                     milk                                              apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After   7 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     hotdogs                                           eggs                     
+                     rice krispies                                     bread                    
+                     milk                                              apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After   8 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                     rice krispies                                     bread                    
+                     milk                     hotdogs                  apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After   9 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     rice krispies            eggs                     bread                    
+                     milk                     hotdogs                  apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  10 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     bread                                                                      
+                     rice krispies            eggs                                              
+                     milk                     hotdogs                  apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  11 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     bread                                                                      
+                     rice krispies                                                              
+                     milk                     hotdogs                  apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  12 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     bread                                                                      
+                     rice krispies            apple pie                                         
+                     milk                     hotdogs                                           
+                     ===========================================================================
+
+
+
+
+
+
+After  13 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     bread                                                                      
+                     rice krispies            apple pie                                         
+                     milk                     hotdogs                  eggs                     
+                     ===========================================================================
+
+
+
+
+
+
+After  14 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              bread                                             
+                     rice krispies            apple pie                                         
+                     milk                     hotdogs                  eggs                     
+                     ===========================================================================
+
+
+
+
+
+
+After  15 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              bread                                             
+                     rice krispies            apple pie                                         
+                     milk                     hotdogs                                           
+                     ===========================================================================
+
+
+
+
+
+
+After  16 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              bread                                             
+                                              apple pie                                         
+                     milk                     hotdogs                  rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  17 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              bread                                             
+                     eggs                     apple pie                                         
+                     milk                     hotdogs                  rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  18 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                     apple pie                bread                    
+                     milk                     hotdogs                  rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  19 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                                              apple pie                bread                    
+                     milk                     hotdogs                  rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  20 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                     apple pie                                         bread                    
+                     milk                     hotdogs                  rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  21 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     apple pie                eggs                     bread                    
+                     milk                     hotdogs                  rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  22 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     bread                                                                      
+                     apple pie                eggs                                              
+                     milk                     hotdogs                  rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  23 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     bread                                                                      
+                     apple pie                                                                  
+                     milk                     hotdogs                  rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  24 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     bread                                                                      
+                     apple pie                                         hotdogs                  
+                     milk                                              rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  25 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     bread                                             eggs                     
+                     apple pie                                         hotdogs                  
+                     milk                                              rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  26 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                     apple pie                                         hotdogs                  
+                     milk                     bread                    rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  27 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     apple pie                eggs                     hotdogs                  
+                     milk                     bread                    rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  28 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       apple pie                
+                                              eggs                     hotdogs                  
+                     milk                     bread                    rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  29 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       apple pie                
+                     eggs                                              hotdogs                  
+                     milk                     bread                    rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  30 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       bread                    
+                                                                       apple pie                
+                     eggs                                              hotdogs                  
+                     milk                                              rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  31 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                                                                       bread                    
+                                                                       apple pie                
+                                                                       hotdogs                  
+                     milk                                              rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  32 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                                                                       bread                    
+                                                                       apple pie                
+                                                                       hotdogs                  
+                                              milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  33 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       bread                    
+                                                                       apple pie                
+                                              eggs                     hotdogs                  
+                                              milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  34 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       apple pie                
+                                              eggs                     hotdogs                  
+                     bread                    milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  35 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       apple pie                
+                     eggs                                              hotdogs                  
+                     bread                    milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  36 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                     apple pie                hotdogs                  
+                     bread                    milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  37 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                                              apple pie                hotdogs                  
+                     bread                    milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  38 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              bread                    eggs                     
+                                              apple pie                hotdogs                  
+                                              milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  39 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              bread                                             
+                                              apple pie                hotdogs                  
+                                              milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  40 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              bread                                             
+                                              apple pie                                         
+                     hotdogs                  milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  41 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              bread                                             
+                     eggs                     apple pie                                         
+                     hotdogs                  milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  42 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                     apple pie                bread                    
+                     hotdogs                  milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  43 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                                              apple pie                bread                    
+                     hotdogs                  milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  44 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                     apple pie                                         bread                    
+                     hotdogs                  milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  45 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     apple pie                eggs                     bread                    
+                     hotdogs                  milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  46 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     bread                                                                      
+                     apple pie                eggs                                              
+                     hotdogs                  milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  47 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     bread                                                                      
+                     apple pie                                                                  
+                     hotdogs                  milk                     rice krispies            
+                     ===========================================================================
+
+
+
+
+
+
+After  48 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                                                                       
+                     bread                                                                      
+                     apple pie                rice krispies                                     
+                     hotdogs                  milk                                              
+                     ===========================================================================
+
+
+
+
+
+
+After  49 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     bread                                                                      
+                     apple pie                rice krispies                                     
+                     hotdogs                  milk                     eggs                     
+                     ===========================================================================
+
+
+
+
+
+
+After  50 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              bread                                             
+                     apple pie                rice krispies                                     
+                     hotdogs                  milk                     eggs                     
+                     ===========================================================================
+
+
+
+
+
+
+After  51 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              bread                                             
+                     apple pie                rice krispies                                     
+                     hotdogs                  milk                                              
+                     ===========================================================================
+
+
+
+
+
+
+After  52 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              bread                                             
+                                              rice krispies                                     
+                     hotdogs                  milk                     apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  53 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              bread                                             
+                     eggs                     rice krispies                                     
+                     hotdogs                  milk                     apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  54 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                     eggs                     rice krispies            bread                    
+                     hotdogs                  milk                     apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  55 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                                                       eggs                     
+                                              rice krispies            bread                    
+                     hotdogs                  milk                     apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  56 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              hotdogs                  eggs                     
+                                              rice krispies            bread                    
+                                              milk                     apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  57 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              hotdogs                                           
+                                              rice krispies            bread                    
+                                              milk                     apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  58 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              hotdogs                                           
+                                              rice krispies                                     
+                     bread                    milk                     apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  59 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              hotdogs                                           
+                     eggs                     rice krispies                                     
+                     bread                    milk                     apple pie                
+                     ===========================================================================
+
+
+
+
+
+
+After  60 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              apple pie                                         
+                                              hotdogs                                           
+                     eggs                     rice krispies                                     
+                     bread                    milk                                              
+                     ===========================================================================
+
+
+
+
+
+
+After  61 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              apple pie                                         
+                                              hotdogs                                           
+                                              rice krispies                                     
+                     bread                    milk                     eggs                     
+                     ===========================================================================
+
+
+
+
+
+
+After  62 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              bread                                             
+                                              apple pie                                         
+                                              hotdogs                                           
+                                              rice krispies                                     
+                                              milk                     eggs                     
+                     ===========================================================================
+
+
+
+
+
+
+After  63 moves:     Broken Cart              Working Cart             Spare Cart               
+                     ---------------------------------------------------------------------------
+                                              eggs                                              
+                                              bread                                             
+                                              apple pie                                         
+                                              hotdogs                                           
+                                              rice krispies                                     
+                                              milk                                              
+                     ===========================================================================
+
+
+
+
+
+
+"00688267039317", "Nature's Promise", "Nature's Promise Naturals Fresh Brown Eggs Omega 3 Large", 24.66
+"00835841005255", "Fiber One", "Fiber One Bread Country White", 3.87
+"09073649000493" "apple pie" |on us|gratis|on the house|no charge
+"00025317533003", "Applegate Farms", "Hotdog Uncrd Big Apple", 12.57
+"00038000291210", "Rice Krispies", "Kellogg's Rice Krispies Cereal", 17.58
+"00075457129000", "Garelick Farms", "Garelick Farms Dairy Pure Milk 1% Lowfat", 9.64
+-------------------------
+Total $68.32
+What is your expected amount due?  -------------------------
+Total  $68.32
+
+
